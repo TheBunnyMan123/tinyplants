@@ -1,0 +1,4 @@
+iter:4;angle:30;length:30
+X:F[+X][-X]FX
+F:FF
+X
